@@ -15,7 +15,7 @@
 ** data in an SQLite database.  The code in this file is not used by any other
 ** part of the SQLite library.
 **
-** $Id: encode.c,v 1.1 2007/02/27 19:51:51 gritter Exp $
+** $Id: encode.c,v 1.1.1.1 2007/02/27 19:51:51 gritter Exp $
 */
 #include <string.h>
 

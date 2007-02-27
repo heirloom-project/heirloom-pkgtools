@@ -12,7 +12,7 @@
 ** This is the implementation of generic hash-tables
 ** used in SQLite.
 **
-** $Id: hash.c,v 1.1 2007/02/27 19:51:54 gritter Exp $
+** $Id: hash.c,v 1.1.1.1 2007/02/27 19:51:54 gritter Exp $
 */
 #include "sqliteInt.h"
 #include <assert.h>

@@ -14,7 +14,7 @@
 ** Most of the code in this file may be omitted by defining the
 ** SQLITE_OMIT_VACUUM macro.
 **
-** $Id: vacuum.c,v 1.1 2007/02/27 19:52:02 gritter Exp $
+** $Id: vacuum.c,v 1.1.1.1 2007/02/27 19:52:02 gritter Exp $
 */
 #include "sqliteInt.h"
 #include "os.h"

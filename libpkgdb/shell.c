@@ -12,7 +12,7 @@
 ** This file contains code to implement the "sqlite" command line
 ** utility for accessing SQLite databases.
 **
-** $Id: shell.c,v 1.1 2007/02/27 19:51:51 gritter Exp $
+** $Id: shell.c,v 1.1.1.1 2007/02/27 19:51:51 gritter Exp $
 */
 #include <stdlib.h>
 #include <string.h>
